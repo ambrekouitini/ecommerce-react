@@ -1,0 +1,16 @@
+.productPageContainer {
+    padding: 3% 6%;
+}
+
+.pageTitle {
+    text-align: center;
+    color: #333;
+    font-size: 32px;
+}
+
+.pageSubtitle {
+    text-align: center;
+    color: #888;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
